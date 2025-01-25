@@ -4,16 +4,9 @@ collection: materiaalit
 type: "Lukupiiri"
 permalink: /materiaalit/herpesvirukset
 date: 2024-12-13
-location: "City, Country"
 ---
-
-This is a description of a materiaalit experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+## Ennakkomateriaalit
+- Herpes Gladiatorum With Ocular Involvement in a Mixed Martial Arts Fighter
+- Letermovir Prophylaxis for Cytomegalovirus in Hematopoietic-Cell Transplantation
+- Immunopathogenic Insights on Preferential Human Herpesvirus-6 Reactivation in Drug Rash With Eosinophilia and Systemic Symptoms: A Scoping Review
+- Updates on the diagnosis and management of multicentric Castleman disease
