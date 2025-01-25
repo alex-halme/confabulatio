@@ -1,10 +1,9 @@
 ---
-title: "materiaalit experience 2"
+title: "Populaatioetiikka"
 collection: materiaalit
-type: "Workshop"
-permalink: /materiaalit/2015-spring-materiaalit-1
-venue: "University 1, Department"
-date: 2015-01-01
+type: "Lukupiiri"
+permalink: /materiaalit/populaatioetiikka
+date: 2025-01-10
 location: "City, Country"
 ---
 

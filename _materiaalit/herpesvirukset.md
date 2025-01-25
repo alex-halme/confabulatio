@@ -1,10 +1,9 @@
 ---
-title: "materiaalit experience 1"
+title: "Herpesvirukset"
 collection: materiaalit
-type: "Undergraduate course"
-permalink: /materiaalit/2014-spring-materiaalit-1
-venue: "University 1, Department"
-date: 2014-01-01
+type: "Lukupiiri"
+permalink: /materiaalit/herpesvirukset
+date: 2024-12-13
 location: "City, Country"
 ---
 
