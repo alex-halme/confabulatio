@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Confabulatio on Helsingin Yliopiston lääketieteellisen tiedekunnan akateeminen lukupiiri. Lukupiiri perustettiin tammikuussa 2025. 
+Confabulatio on Helsingin Yliopiston lääketieteellisen tiedekunnan akateeminen lukupiiri. Lukupiiri perustettiin tammikuussa 2025.
+
+Voit selata Confabulation aiempia lukupiirejä ja opiskelumateriaaleja [täällä](/materiaalit/).
