@@ -12,7 +12,7 @@ title                    : "Confabulatio"
 title_separator          : "-"
 name                     : &name "Confabulatio"
 description              : &description "Akateeminen lukupiiri"
-url                      : https://alexhalme.com/confabulatio/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://confabulatio.org # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alex-halme/confabulatio"
 
