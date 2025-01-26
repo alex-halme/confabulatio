@@ -14,7 +14,9 @@ Confabulatio on vuonna 2025 perustettu Helsingin Yliopiston lääketieteellisen 
 
 ## Toiminta
 
-Confabulatio järjestää lääketieteen opiskelijoille yksittäisiä tiettyihin lääketieteellisiin ja lääketiedettä hipoviin teemoihin liittyviä keskusteluiltoja ja pidempiä lukupiirejä/opintopiirejä vaihtelevista aiheista. Aikaisemmin lukupiiri on käsitellyt muun muassa seuraavia teemoja: herpesvirusinfektiot ja populaatioetiikka. Voit selata Confabulation aikaisempia lukupiirejä ja opiskelumateriaaleja [tästä](/materiaalit).
+Confabulatio järjestää lääketieteen opiskelijoille sekä yksittäisiä tiettyihin lääketieteellisiin ja lääketiedettä hipoviin teemoihin liittyviä keskusteluiltoja sekä pidempiä lukupiirejä/opintopiirejä vaihtelevista aiheista. Aikaisemmin keskusteluilloissa on käsitelty muun muassa seuraavia teemoja: herpesvirusinfektiot ja populaatioetiikka. 
+
+Voit selata Confabulation aikaisempia lukupiirejä ja opiskelumateriaaleja [tästä](/materiaalit).
 
 ---
 
