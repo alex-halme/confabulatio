@@ -22,12 +22,12 @@ date: 2025-01-27
 - Mitä tarkoittaa lyhenne NTD ja mitä se sisältää?
 - Mitä tarkoitetaan "one health" -lähestymistavalla?
 - Mitä tarkoitetatan "zero by 30" -tavoitteella ja miten siihen päästään?
-- Mitä Tinea Soleum aiheuttaa jälkitautinaan?
+- Mitä <i>Taenia solium</i> aiheuttaa jälkitautinaan?
 - Miten USA:n poistuminen WHO:sta vaikuttaa trooppisten tautien eliminaatiotavoitteisiin?
 
 ### Tropical Diseases: A Historical Perspective
 - Miksi trooppiset taudit ovat trooppisia?
-- Minkä kehitystä Plinius ennusti todetessaan: "Est limus salivae sub lingua rabiosi cani"?
+- Minkä kehitystä Plinius ennusti todetessaan "Est limus salivae sub lingua rabiosi cani"?
 - Miten HIV eroaa muista artikkelissa esiintyvistä taudinaiheuttajista?
 
 ### Matkailijoiden infektiot
@@ -57,8 +57,8 @@ date: 2025-01-27
 - Johtuuko malaria-alueiden köyhyys malariasta vai malaria köyhyydestä?
 
 ### Guidelines for the treatment of human African trypanosomiasis
-- Mitä eroja gambialaisen ja rhodesialaisen trypanosomiaasin väleillä on?
-- Mitä merkitystä on reservoaarilajilla trypanosomiaasin eliminaatiotavotteeseen?
+- Mitä eroja gambialaisen ja rhodesialaisen trypanosomiaasin välillä on?
+- Mitä merkitystä on reservoaarilajilla trypanosomiaasin eliminaatiotavoitteen kannalta?
 - Unitaudin 1. ja 2. vaiheen oireisto?
 - Miten taudin vaihe vaikuttaa lääkevalintaan?
 
