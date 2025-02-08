@@ -2,7 +2,7 @@
 title: "Endokrinologia ja mielen ihmeet"
 collection: materiaalit
 type: "Lukupiiri"
-venue: "Mocsu"
+venue: "Wegelius"
 permalink: /materiaalit/endokrinologia_ja_mieli
 date: 2025-02-26 16:00:00
 ---
