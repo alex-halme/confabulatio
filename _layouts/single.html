@@ -35,7 +35,7 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'materiaalit' %}
-          <p> {{ page.type }}, {{ page.date | default: "1900-01-01" | date: "%d.%m.%Y" }} </p>
+          <p> {{ page.type }}, {{ post.date | default: "1900-01-01 00:00:00" | date: "%d.%m.%Y %H:%M" }}, {{ page.venue }} </p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}

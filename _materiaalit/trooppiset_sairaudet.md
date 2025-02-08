@@ -2,8 +2,9 @@
 title: "Trooppiset sairaudet"
 collection: materiaalit
 type: "Lukupiiri"
+venue: "Wegelius"
 permalink: /materiaalit/trooppiset_sairaudet
-date: 2025-01-27
+date: 2025-01-27 16:00:00
 ---
 ## Ydinsisältö
 - ⁠Matkailijoiden infektiot, [Oppiportti](https://www.oppiportti.fi/isa05201) <i>(huom. osin vanhentunutta sisältöä)</i>

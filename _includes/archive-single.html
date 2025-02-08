@@ -39,7 +39,7 @@
     {% endif %}
 
         {% if post.collection == 'materiaalit' %}
-          <p> {{ post.type }}, {{ post.date | default: "1900-01-01" | date: "%d.%m.%Y" }} </p>
+          <p> {{ post.type }}, {{ post.date | default: "1900-01-01 00:00:00" | date: "%d.%m.%Y %H:%M" }}, {{ page.venue}} </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%d.%m.%Y" }} </p>
         {% elsif post.date %}

@@ -2,8 +2,9 @@
 title: "Biostatistiikan perusteet"
 collection: materiaalit
 type: "Ylimääräinen lukupiiri"
+venue: "Mocsu"
 permalink: /materiaalit/biostatistiikka_1
-date: 2025-02-08
+date: 2025-02-08 10:30:00
 ---
 ## Materiaalit
 - [Hypothesis testing](https://pmc.ncbi.nlm.nih.gov/articles/PMC1337490/)

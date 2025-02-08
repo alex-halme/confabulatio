@@ -2,8 +2,9 @@
 title: "Populaatioetiikka"
 collection: materiaalit
 type: "Lukupiiri"
+venue: "Basaari"
 permalink: /materiaalit/populaatioetiikka
-date: 2025-01-10
+date: 2025-01-10 16:00:00
 ---
 ## Ennakkomateriaalit 
 - MacAskill, W., 2022. What We Owe The Future: The Sunday Times Bestseller. Simon and Schuster.
