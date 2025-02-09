@@ -7,7 +7,8 @@ permalink: /materiaalit/endokrinologia_ja_mieli
 date: 2025-02-26 16:00:00
 ---
 ## Ennakkomateriaalit
-- [Management of psychiatric disorders in patients with endocrine disorders](https://pmc.ncbi.nlm.nih.gov/articles/PMC9122171/)
+- [Endocrine Disorders Associated with
+Psychological/Behavioral Problems](https://academic-oup-com.libproxy.helsinki.fi/edited-volume/28102/chapter/212209690)
 - [The mental health comorbidities of diabetes](https://pmc.ncbi.nlm.nih.gov/articles/PMC4439400/)
 - [Relations among posttraumatic stress disorder, comorbid major depression, and HPA function: a
 systematic review and meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC3340453/)
