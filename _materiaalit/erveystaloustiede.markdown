@@ -3,7 +3,7 @@ title: "Terveystaloustiede"
 collection: materiaalit
 type: "Lukupiiri"
 permalink: /materiaalit/erveystaloustiede
-date: 2025-04-12
+date: 2025-04-12 15:00:00
 ---
 
 ## Ydinsisältö menetelmittäin
