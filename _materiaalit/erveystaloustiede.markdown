@@ -2,6 +2,7 @@
 title: "Terveystaloustiede"
 collection: materiaalit
 type: "Lukupiiri"
+venue: "ravintola Mullikka"
 permalink: /materiaalit/erveystaloustiede
 date: 2025-04-12 15:00:00
 ---
