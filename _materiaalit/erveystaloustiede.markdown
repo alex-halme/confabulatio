@@ -4,7 +4,7 @@ collection: materiaalit
 type: "Lukupiiri"
 venue: "ravintola Mullikka"
 permalink: /materiaalit/erveystaloustiede
-date: 2025-04-12 15:00:00, 2025-04-11 15:00:00
+date: 2025-04-12 15:00:00
 ---
 
 ## Ydinsisältö menetelmittäin
