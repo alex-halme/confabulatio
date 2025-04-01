@@ -6,7 +6,6 @@ venue: "Basaari/Wegelius"
 permalink: /materiaalit/Kravun_kääntöpiiri.md
 date: 2025-04-08 15:00:00
 ---
-
 ## Materiaalit
 - Kravun Kääntöpiiri, Henry Miller
 - [Inside the whale, George Orwell](https://www.telelib.com/authors/O/OrwellGeorge/essay/insidewhale_3.html)
