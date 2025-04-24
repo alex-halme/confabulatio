@@ -3,7 +3,7 @@ title: "Rakkautta koleran aikaan"
 collection: materiaalit
 type: "Lukupiiri"
 venue: "Basaari/Wegelius"
-permalink: /materiaalit/Rakkautta_koleran_aikaan.md
+permalink: /materiaalit/rakkautta_koleran_aikaan.md
 date: 2025-05-07
 ---
 
