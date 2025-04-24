@@ -4,7 +4,7 @@ collection: materiaalit
 type: "Lukupiiri"
 venue: "Basaari/Wegelius"
 permalink: /materiaalit/rakkautta_koleran_aikaan.md
-date: 2025-05-07
+date: 2025-05-07 18:00:00
 ---
 
 ## Materiaalit
