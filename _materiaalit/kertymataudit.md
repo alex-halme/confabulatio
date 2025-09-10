@@ -4,7 +4,7 @@ collection: materiaalit
 type: "Lukupiiri"
 venue: "Wegelius"
 permalink: /materiaalit/kertymasairaudet
-date: 2025-9-29 16:00:00
+date: 2025-10-2 16:00:00
 ---
 ## Keskeinen materiaali
 - [Systemic Light Chain Amyloidosis](https://www.nejm.org/doi/full/10.1056/NEJMra2304088)
