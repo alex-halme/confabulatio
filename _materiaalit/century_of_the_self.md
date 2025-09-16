@@ -3,7 +3,7 @@ title: "Adam Curtis - Century of the self"
 collection: materiaalit
 type: "Lukupiiri"
 venue: "Kinopoli"
-permalink: /materiaalit/terveystaloustiede
+permalink: /materiaalit/century_of_the_self
 date: 2025-09-16 17:00:00
 ---
 

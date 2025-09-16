@@ -3,7 +3,7 @@ title: "Saatana saapuu Moskovaan"
 collection: materiaalit
 type: "Lukupiiri"
 venue: "Wegelius"
-permalink: /materiaalit/terveystaloustiede
+permalink: /materiaalit/saatana_saapuu_moskovaan
 date: 2025-09-23 17:00:00
 ---
 
